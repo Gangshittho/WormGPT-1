@@ -18,7 +18,7 @@ The WormGPT tool is a AI chatbot type tool that helps you guide  to use any tool
 
 ### Installation
 
-`I'm pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y
 ```
 ```
 pkg install git -y
