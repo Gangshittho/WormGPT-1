@@ -19,28 +19,21 @@ The WormGPT tool is a AI chatbot type tool that helps you guide  to use any tool
 ### Installation
 
 pkg update && pkg upgrade -y
-```
-```
+
 pkg install git -y
-```
-```
+
 pkg install python3
-```
-```
+
 git clone https://github.com/sajadtlpr/WormGPT.git
-```
-```
+
 cd WormGPT
-```
-```
+
 pip install -r requirements.txt
-```
-```
+
 chmod +x *
-```
-```
+
 python3 WormGPT.py
-```
+
 
 
 
@@ -50,9 +43,7 @@ python3 WormGPT.py
 
 - [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](https://instagram.com/sajad.tlpr)
 #
-#### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=black-demon-dr7&repo=WormGPT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 #
 ### ©️ Copyright
 Copyright © 2022-2023 by [Sajadtlpr](https://github.com/sajadtlpr)
