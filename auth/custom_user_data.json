@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "mongo_service_name": "Cluster0",
+    "database_name": "todo",
+    "collection_name": "Item",
+    "user_id_field": "Fukhyouu"
+}
